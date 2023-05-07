@@ -37,9 +37,9 @@ mainSections = ['posts']
 # you can set multi row of footers like these
 [[params.footer_rows]]
 [[params.footer_rows.items]]
-name = "Creative Commons Attribution 4.0 International"
-url = "https://creativecommons.org/licenses/by/4.0/"
-pre = "Copyright <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY-4.0</a>"
+name = "Contact Me"
+url = "https://satbhavvoleti.github.io"
+pre = "Email me at satbhav.voleti@gmail.com "
 
 # [[params.footer_rows]]
 # [[params.footer_rows.items]]
