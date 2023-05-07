@@ -59,7 +59,7 @@ Libgen and Sci-Hub are essential resources to source texts inaccessible to stude
 
 ### Fun stuff:
 
-[Philos TV](https://philostv.com)  
+[Oxbridge Philosophy](https://www.youtube.com/watch?v=qUvf3fOmTTk)  
 [Funny Clips of Philosophers](https://www.youtube.com/@feallsanachd8857)  
 [Existential Comics](https://existentialcomics.com/)  
 [Monty Python Philosophy Football](https://www.youtube.com/watch?v=LfduUFF_i1A)  
