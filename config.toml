@@ -5,6 +5,9 @@ hasCJKLanguage = true
 paginate = 6
 baseURL = "https://satbhavvoleti.github.io"
 
+[author]
+name = "Satbhav Voleti"
+
 # these values are hugo built in markup config
 [markup.highlight]
 anchorLineNos = false
