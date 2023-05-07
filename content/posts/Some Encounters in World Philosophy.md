@@ -1,7 +1,7 @@
 ---
 author: "Satbhav Voleti"
 title: "Some Encounters in 'World Philosophy'"
-date: 2022-01-01
+date: 2022-05-07
 showthedate: true
 wordcount: true
 readingtime: true
