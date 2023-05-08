@@ -14,7 +14,7 @@ categories:
 
 ## Three Phases of Comparative Philosophy
 
-Comparative philosophy as a self-conscious academic project has existed for the good part of a 150 years now. Ralph Weber and Arindam Chakrabarti place present comparative philosophy in its third phase[^1],'a critical conjuncture between universalism and localism', after its first two phases, universalism and localism. How is this critical conjuncture different from the former stages? How can we understand historical encounters of world philosophy in light of these stages?   
+Comparative philosophy as a self-conscious academic project has existed for the good part of a 150 years now. Ralph Weber and Arindam Chakrabarti place present comparative philosophy in its third phase[^1], 'a critical conjuncture between universalism and localism', after its first two phases, universalism and localism. How is this critical conjuncture different from the former stages? How can we understand historical encounters of world philosophy in light of these stages?   
 
 In the same essay, Weber and Chakrabarti introduce the four-fold relation of comparison. Comparison has at least four-relata–P (the person/context comparing), A & B (subjects of comparison) and F (the respect in which they are compared). So, for example, Hegel's dismissive and mistaken comparison is explained as Hegel (P) compares Western, Indian and Chinese philosophies (A, B and C) with respect to the "center of philosophical attention" (F). This relation gives a barebones framework for interpreting different tendencies of comparative work.
 
