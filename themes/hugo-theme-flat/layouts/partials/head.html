@@ -1,5 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="google-site-verification" content="sxye9cLWD5e6fxqQg0aPWrmYFc-1P0o4BqfKcjJGa-8">
 
 {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
