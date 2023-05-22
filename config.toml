@@ -93,3 +93,8 @@ weight = 60
 # parent = "Services"
 # name = "Service B"
 # url = "#"
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
