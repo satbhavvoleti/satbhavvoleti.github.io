@@ -7,6 +7,7 @@ wordcount: true
 readingtime: true
 draft: false
 tags: 
+- philosophical methodology
 categories:
 - history of philosophy
     
