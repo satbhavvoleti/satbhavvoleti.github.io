@@ -6,4 +6,4 @@ draft: false
 
 ---
 
-My dear friend, [Aditya](https://adityadwarkesh.github.io), and I made some elementary notes on Allen Wood's book *Karl Marx*. We finished approximately half of it and summarized the sections on alienation, (the fascinating and perplexing notion) *Gattungswesen* and historical materialism. You can find them [here](../files/Heidegger-Levinas.pdf)
+My dear friend, [Aditya](https://adityadwarkesh.github.io), and I made some elementary notes on Allen Wood's book *Karl Marx*. We finished approximately half of it and summarized the sections on alienation, (the fascinating and perplexing notion) *Gattungswesen* and historical materialism. You can find them [here](../files/Karl Marx by Allen Wood.pdf)
