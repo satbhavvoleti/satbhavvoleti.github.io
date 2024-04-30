@@ -13,7 +13,7 @@ This is a list of various digital resources I find very helpful and use frequent
 [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)  
 [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)  
 [Readings on Less Commonly Taught Philosophies](http://www.bryanvannorden.com/suggestions-for-further-reading)    
-[Diversity Reading List](https://diversityreadinglist.org/)      
+[Diversity Reading List](https://diversityreadinglist.org/)  
 [APA's Diversity and Inclusiveness Syllabus Collection](https://www.apaonline.org/members/group_content_view.asp?group=110430&id=380970)         
 
 ### Textual Sources and Academic Resources:
@@ -25,10 +25,10 @@ This is a list of various digital resources I find very helpful and use frequent
 [Internet Archive](https://archive.org)  
 [Marxist Internet Archive](https://www.marxists.org/archive/index.htm)  
 [The Anarchist Library](https://theanarchistlibrary.org/)  
-[Perso-Indica](http://www.perso-indica.net/index.faces)          
-[Post-classical Islamic Philosophy Database Initiative](https://islamsci.mcgill.ca/RASI/pipdi.html)      
-[History of Women Philosophers and Scientists Study Portal](https://historyofwomenphilosophers.org/study/)           
-[APA's Resource List](https://www.apaonline.org/page/resources)        
+[Perso-Indica](http://www.perso-indica.net/index.faces)  
+[Post-classical Islamic Philosophy Database Initiative](https://islamsci.mcgill.ca/RASI/pipdi.html)  
+[History of Women Philosophers and Scientists Study Portal](https://historyofwomenphilosophers.org/study/)  
+[APA's Resource List](https://www.apaonline.org/page/resources)  
 Libgen and Sci-Hub are essential resources to source texts inaccessible to students.  
 
 ### Blogs:
