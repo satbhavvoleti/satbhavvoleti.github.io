@@ -6,7 +6,7 @@ draft: false
 
 ![Satbhav Voleti](../images/Satbhav.jpg)
 
-I am currently Satbhav Voleti, a graduate student of mathematics at Indian Institute of Science Education and Research, Kolkata in India. I am interested in studying 'fusion' philosophy focusing on the Chinese Buddhist and Sanskritic traditions. The metaphysical and epistemological debates in post-Diṅnāga Indian philosophy are of the utmost interest to me as of now. More broadly, I am interested in an investigation of the history of process philosophy as present in non-Western philosophies of action, metaphysics and epistemology. You can contact me at: <satbhav.voleti@gmail.com> 
+I am currently Satbhav Voleti, a graduate student of mathematics at Indian Institute of Science Education and Research, Kolkata in India. I am interested in studying 'fusion' philosophy focusing on analytic techniques in the South Asian traditions broadly conceived. The metaphysical and epistemological debates in post-Diṅnāga Sanskrit philosophy are of the utmost interest to me as of now. More broadly, I am interested in an investigation of the history of process philosophy as present in non-Western philosophies of action, metaphysics and epistemology. You can contact me at: <satbhav.voleti@gmail.com> 
 
 
 
