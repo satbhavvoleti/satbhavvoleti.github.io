@@ -1,9 +1,9 @@
 ---
-title: "Allen Wood's Karl Marx"
-date: 2021-10-31
+title: "Early Modern Sanskrit Logic and Self-Reference"
+date: 2024-05-22
 showthedate: true
 draft: false
 
 ---
 
-My dear friend, [Aditya](https://adityadwarkesh.github.io), and I made some elementary notes on Allen Wood's book *Karl Marx*. We finished approximately half of it and summarized the sections on alienation, (the fascinating and perplexing notion) *Gattungswesen* and historical materialism. You can find them [here](../writings/files/Karl%20Marx%20by%20Allen%20Wood.pdf)
+As a part of my master's project work, I presented the symbolization of Navya-Nyāya technical language developed by Jonardon Ganeri and Eberhard Guhe. In doing so, I attempted to explain the mathematical structures used, especially the contrast in the extensional and intensional approaches. I also discussed some elementary philosophical reasons why both capture different aspects of the technical language and neither are entirely satisfactory for a liberal naturalist of the Naiyāyika strain. In lieu of a recording, I have uploaded the slides [here](../files/Early_Modern_Sanskrit_Logic_and_Self-Reference.pdf).
