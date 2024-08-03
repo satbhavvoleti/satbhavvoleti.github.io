@@ -6,8 +6,7 @@ showthedate: true
 wordcount: true
 readingtime: true
 draft: false
-tags: 
-- absence
+tags: ["absence", "Nabadwip"]
 categories:
 - ontology
     
