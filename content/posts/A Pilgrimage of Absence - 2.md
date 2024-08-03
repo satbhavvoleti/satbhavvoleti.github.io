@@ -7,7 +7,7 @@ wordcount: true
 readingtime: true
 draft: false
 tags: 
-- Nyaya, absence, Dharmakirti, series - A Pilgrimage of Absence
+- absence
 categories:
 - ontology,
     

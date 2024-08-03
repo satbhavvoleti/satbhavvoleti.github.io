@@ -6,16 +6,16 @@ showthedate: true
 wordcount: true
 readingtime: true
 draft: false
-tags: ["Nyaya", "Mimamsa", "absence", "series - A Pilgrimage of Absence"]
+tags: 
+- absence
 categories:
 - ontology
     
 --- 
 
-
 Travelling through Nabadwip, I was initially struck by the narrowness of the lanes. The exquisitely slender streets and the rather large pedestrian population make travel on foot or two-wheelers preferable to even totos. The arch at the entrance to the town announces the beginning of this urban landscape with its dense maze-like spatial organisation, which also paradoxically possesses a unique directionality pointing past the banks of Hooghly towards Mayapur, the more popular tourist destination made clear by the unequal saturation of ferry passengers to and fro across the Hooghly. This very directionality solicited my movement from the archway after crossing the Gouranga Sethu towards the Paccatol road.
 
-![The Hooghly's banks of Nabadwip and Mayapur](../../images/Hooghly.jpg)
+![The river banks of Nabadwip and Mayapur](../../images/Nabadwip%20River.jpg)
 
 Perhaps the cognition *A* really does have as its noetic correlate, the city of Nabadwip grasped as a `mere that'; that is to say, the city is grasped as being bare, as being unadorned. The first attempt I discuss is inspired by the historical position of Prabhākara (especially as reported by Gaṅgeśa in [1]). The implicit contrast being made is with a cognition of Nabdawip as qualified by the presence of Nyāya. When I cognize a table with a pen, I cognize the table as being qualified by the presence of the pen (in virtue of the relation of contact). In contrast to this, when I cognize the bare table, I cognize the table as a 'mere that'. The phrase *mere that* must do a lot of heavy lifting here. This indeed remains the essential problem for this attempt at analysing cognition *A*: to provide a reasonable parsing of *mere that* which does not circularly involve the notion of absence. 
 

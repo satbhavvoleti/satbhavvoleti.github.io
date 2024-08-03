@@ -7,7 +7,7 @@ wordcount: true
 readingtime: true
 draft: false
 tags: 
-- Nyaya, absence, KC Bhattacharyya, series - A Pilgrimage of Absence
+- absence
 categories:
 - ontology
     
