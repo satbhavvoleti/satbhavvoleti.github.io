@@ -6,8 +6,7 @@ showthedate: true
 wordcount: true
 readingtime: true
 draft: false
-tags: 
-- ["Nyaya", "Mimamsa", "absence", "series - A Pilgrimage of Absence"]
+tags: ["Nyaya", "Mimamsa", "absence", "series - A Pilgrimage of Absence"]
 categories:
 - ontology
     
