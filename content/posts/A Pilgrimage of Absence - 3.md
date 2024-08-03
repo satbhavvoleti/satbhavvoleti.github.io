@@ -1,6 +1,6 @@
 ---
 author: "Satbhav Voleti"
-title: "Nabadwip as an imagined-locus-of-Nyāya"
+title: "A Pilgrimage of Absence: 3 - Nabadwip as an imagined-locus-of-Nyāya"
 date: 2024-08-01
 showthedate: true
 wordcount: true
@@ -23,13 +23,13 @@ KC Bhattacharyya presents a typology of objective facts as tripartite[^2]: prese
 
 Absence is, in Bhattacharyya's words, 'a floating adjective that unlike colour is felt to be dissociated from the locus'. After all, seeing the absence of a tree in a field is quite unlike seeing the field as green. We consciously distinguish the tree from its absence and this kind of perception of absence is what he calls imaginative perception. There is yet more to do. In the case of something being absent, as in the case of the example from the previous attempt, the objective circumstance of the subject delineates the object as absent. We are looking for it. We need it, and our instruments of perception are guided by it. I am compelled to reach out for it, yet I do not meet it. This missing is an experience that is interpreted as an object fact of what I have previously called a failure. The contrast between the failure and the imagination of the book as present involves psychic friction. The knowledge which presents the imagination of the book as beyond the realm of objectivity is what he calls imaginative perception. 
 
-![View of Buno Ramnath's Tol's classroom](../images/Buno%20Ramnath%20Tol%20-%203.jpg)
+![View of Buno Ramnath's Tol's classroom](../../images/Buno%20Ramnath%20Tol%20-%203.jpg)
 
 *View of Būnō Rāmnāth's ṭol's room from the window*
 
 An internet search also revealed the location of the tol of Rāmnāth Tarkasiddhānta, fl. 18th century[^3]. This was immediately after lunch. I had seen Prasanna Tarkaratna's ṭol and was now headed to this one. Although I could not enter, Būnō Ramnath's ṭol was the most interesting to explore from the outside. The site does not share any walls with adjacent buildings, and one can walk around it and look as I did through barred windows and closed doors. The tiny lane on one side of the building was fit for only one person to walk through at a time, with a drain running alongside. I walked up to the windows, peered through, and imagined it as a locus of Nyāya. The classrooms were there, so it was easy to imagine what would have been. Rather, to be fair to the actual experience, I must say that the imagination was almost automatic; it was creative yet did not require conscious effort: a sort of imaginative perception. Looking further through the doorways, I could see the field in the middle of the structure. There were stray tables and stools, poised as if they were to be used. Although the place was crumbling and perhaps no longer fit to be actively used as a classroom, it did have LED lights attached and other electrical apparatus. There were many holes (a negative entity!) in the doors, walls and windows inside. The crevices let in light that was bright and showed only hints of the inside, as if the building was hiding its details from my perceptual gaze. What it let me see was interestingly complex. There were traces of repair, modernisation and use, yet by far, the majority of the place was in disrepair. Perhaps this was an intentional choice to keep as much as possible intact without replacing it with a contrary. 
 
-![View of another of Buno Ramnath's Tol's classroom](../images/Buno%20Ramnath%20Tol%20-%204.jpg)
+![View of another of Buno Ramnath's Tol's classroom](../../images/Buno%20Ramnath%20Tol%20-%204.jpg)
 
 *View of another room of Būnō Rāmnāth's ṭol from the window*
 

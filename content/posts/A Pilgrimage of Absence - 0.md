@@ -1,6 +1,6 @@
 ---
 author: "Satbhav Voleti"
-title: "A Pilgrimage of Absence: Beginnings"
+title: "A Pilgrimage of Absence: 0 - Beginnings"
 date: 2024-08-01
 showthedate: true
 wordcount: true

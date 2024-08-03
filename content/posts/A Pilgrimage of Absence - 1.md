@@ -1,6 +1,6 @@
 ---
 author: "Satbhav Voleti"
-title: "The mere locus of Nabadwip"
+title: "A Pilgrimage of Absence: 1 - The mere locus of Nabadwip"
 date: 2024-08-01
 showthedate: true
 wordcount: true
@@ -16,7 +16,7 @@ categories:
 
 Travelling through Nabadwip, I was initially struck by the narrowness of the lanes. The exquisitely slender streets and the rather large pedestrian population make travel on foot or two-wheelers preferable to even totos. The arch at the entrance to the town announces the beginning of this urban landscape with its dense maze-like spatial organisation, which also paradoxically possesses a unique directionality pointing past the banks of Hooghly towards Mayapur, the more popular tourist destination made clear by the unequal saturation of ferry passengers to and fro across the Hooghly. This very directionality solicited my movement from the archway after crossing the Gouranga Sethu towards the Paccatol road.
 
-![The Hooghly's banks of Nabadwip and Mayapur](../images/Hooghly%20-1.jpg)
+![The Hooghly's banks of Nabadwip and Mayapur](../../images/Hooghly%20-1.jpg)
 
 Perhaps the cognition *A* really does have as its noetic correlate, the city of Nabadwip grasped as a `mere that'; that is to say, the city is grasped as being bare, as being unadorned. The first attempt I discuss is inspired by the historical position of Prabhākara (especially as reported by Gaṅgeśa in [1]). The implicit contrast being made is with a cognition of Nabdawip as qualified by the presence of Nyāya. When I cognize a table with a pen, I cognize the table as being qualified by the presence of the pen (in virtue of the relation of contact). In contrast to this, when I cognize the bare table, I cognize the table as a 'mere that'. The phrase *mere that* must do a lot of heavy lifting here. This indeed remains the essential problem for this attempt at analysing cognition *A*: to provide a reasonable parsing of *mere that* which does not circularly involve the notion of absence. 
 
@@ -24,9 +24,9 @@ One parsing might be to read 'a mere table' as identical to the object of the co
 
 The Paccatol road looks completely ordinary, with the Nabadwip Vidyasagar College entrance towering onto the road alongside concrete apartments and homes. The street would pass for a test of a contemporary, simple, urban Bengali street hiding a secret (like most of them do). A little way by foot is a sharp turn into a dead end lined with entrances to apartments. At the head of the dead end lies an abandoned structure, reclaimed by a couple of trees and time. This was once the ṭol of Prasanna Chandra Tarkaratna[^5]. The head of the dead end actually faces the side of the building. The building itself, deserted, has no barriers or doors. All the ways in and out are brick archways. Indeed, the rooms inside themselves have no doors. All the openings, then, remain negative entities—gaps. Two young men settled into classic Indian plastic chairs with elongated backs reminiscent of a swan and sat away chatting and gaming on their phones. We shared a look of puzzlement and silence before I walked past them, offering an apology with my eyes for the disturbance. The abandoned building had perhaps just experienced a rejuvenation of the presence of Nyaya in at least a few years (I do not discount other travellers philosophically inclined such as myself), for I was firmly clutching onto a copy of Daniel H. H. Ingalls' "Materials for the Study of Navya-Nyāya Logic". Perhaps for a moment, the cognition *A* was false. However, I stashed the book away and turned my gaze back onto the floor. My perception of this bare floor at least confirms my cognition *A*. The floor was, nevertheless, not absent of all sorts of debris, tree roots, dried leaves and a modicum of dog shit. 
 
-![Inside Prasanna Tarkaratna's Tol](../images/Prasanna%20Tarkaratna%20Tol%20-%203.jpg)
+![Inside Prasanna Tarkaratna's Tol](../../images/Prasanna%20Tarkaratna%20Tol%20-%203.jpg)
 
-![Inside Prasanna Tarkaratna's Tol](../images/Prasanna%20Tarkaratna%20Tol%20-%202.jpg)
+![Inside Prasanna Tarkaratna's Tol](../../images/Prasanna%20Tarkaratna%20Tol%20-%202.jpg)
 
 *The bare floors of Prasanna Tarkaratna's ṭol*
 
@@ -40,7 +40,7 @@ Hence, the conventional aspect of discussing whether a length is long or short r
 
 However, an aspect of subjectivism remains in this position. Here, by identifying the cognition of absence and the cognition of the bare locus, implicitly, we make absences dependent on cognitions. If one were to subscribe to the seemingly simple formula 'absence of absence of x = x', then presences can be translated into absences, which in turn makes presences also dependent on cognition. To say 'There is Nyaya in Nabadwip' then amounts to us being required to cognize that the absence of Nyaya is *not* present in Nabadwip. The Prabhākara realism is under attack here. It seems there is no way out for this analysis of cognition *A* unless one is ready to do away with a sturdy realism. 
 
-![Prasanna Tarkaratna's Tol view onto adjacent land](../images/Prasanna%20Tarkaratna%20Tol%20-%204.jpg)
+![Prasanna Tarkaratna's Tol view onto adjacent land](../../images/Prasanna%20Tarkaratna%20Tol%20-%204.jpg)
 
 *A view onto the adjoining land of Prasanna Tarkaratna's ṭol*
 

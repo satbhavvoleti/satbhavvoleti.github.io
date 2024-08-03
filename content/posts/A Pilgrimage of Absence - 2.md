@@ -1,6 +1,6 @@
 ---
 author: "Satbhav Voleti"
-title: "Nabadwip-qualified-by-a-contrary"
+title: "A Pilgrimage of Absence: 2 - Nabadwip-qualified-by-a-contrary"
 date: 2024-08-01
 showthedate: true
 wordcount: true
@@ -21,7 +21,7 @@ Very well. This may be the psychological explanation of the origin of the cognit
 
 Where does the negative come from in such a reading? Why do I not walk into Nabadwip and say, "There is no Māori philosophy in Nabadwip"? The answer here must come from outside the affirmative cognition itself. Husserl describes it as the disappointment of protentional anticipations of belief[^2], i.e., I expect to see Nyāya and not Māori philosophy here. My disappointment in failing to perceive the Nyāya is what results in my cognition taking the form of *A*. Of course, we need not remain in the domain of belief. As I am disposed to function in the world, I do not *believe* that my pen has ink. In particular, I do not *believe* anything; I only inhabit a particular propensity towards the world. I pick up my pen and attempt to write. The failure that confronts me is reflected as surprise. My experience, which eventually is crystallized as the judgement "There is no ink in the pen", is one of failure of our habits and dispositions. One attempt, then, is to trace absences to failures of this sort.  
 
-![Outside Prasanna Tarkaratna's Tol](../images/Prasanna%20Tarkaratna%20Tol%20-%201.jpg)
+![Outside Prasanna Tarkaratna's Tol](../../images/Prasanna%20Tarkaratna%20Tol%20-%201.jpg)
 
 Prasanna Tarkaratna's ṭol now has a billboard for something else attached to it. Perhaps it is this that I saw and decided on the absence of Nyāya. Either way, I set out further to track down the location of Jānakīnātha Tarkacūḍāmaṇi's ṭol. Siharan Chakraborty's book *A Brief History of Sanskrit Scholars of Nabadwip*[^3] mentions that a dilapidated building existed at the time of writing the book. I was not particularly hopeful of finding it because the publication of the book and my trip had a solid gap of 25 years. A dilapidated house back then might as well have been replaced by something else today or merely been demolished entirely. In either case, it was going to be nigh impossible to find the actual location. The book mentions the name of the street, Nandipara Road, on which it stood. I set out to find it. 
 
@@ -29,8 +29,8 @@ The validity of our cognition of absence then depends on a particular kind of fa
 
 After a good half an hour of slowly walking up and down the road, looking for any clues, I saw a jewellery shop on the street. My companion for the trip, the man who drove me all the way, was also heavily invested in finding this once I got to chatting with him over lunch about the trip. I did my best to explain whatever I was studying and looking for in the broken Hindi-Bengali mixture that we shared for the trip. Both of us entered the shop together to speak to the people sitting inside. Four men were hanging out inside, enjoying the AC and escaping the clammy heat. They took a second to recalibrate after my inquiry of directions to the Jānakīnātha Tarkacūḍāmaṇi's ṭol. It seemed none of them had heard of the man or this particular ṭol or, at the very least, did not understand my question about them. The oldest man, however, chimed in after a minute or two of pestering from both my companion and me. He finally understood that we were looking for a chatuṣpāṭhi (the word they all seemed to recognize).  He quickly spoke to another man, who in turn ushered us outside and walked with us a few feet. He showed us the location of a building, now rebuilt as an ordinary home. He told us that there used to be a chatuṣpāṭhi here and alleged that it was the only one on this road. Perhaps this was the location of Jānakīnātha Tarkacūḍāmaṇi's ṭol. As I had never expected to find it in the first place, finding a place that seemed to be anyone's best guess based on circumstantial evidence was almost a success. I hurriedly walked in and observed the place.
 
-![The alleged location of Janakinatha Tarkachudamani's Tol](../images/Janakinatha%20Tarkacudamani%20-%202.jpg)
-![The alleged location of Janakinatha Tarkachudamani's Tol view from inside](../images/Janakinatha%20Tarkacudamani%20-%201.jpg)
+![The alleged location of Janakinatha Tarkachudamani's Tol](../../images/Janakinatha%20Tarkacudamani%20-%202.jpg)
+![The alleged location of Janakinatha Tarkachudamani's Tol view from inside](../../images/Janakinatha%20Tarkacudamani%20-%201.jpg)
 
 *The alleged location of Jānakīnātha Tarkacūḍāmaṇi's ṭol*
 
